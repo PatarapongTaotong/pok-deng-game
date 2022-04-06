@@ -1,6 +1,9 @@
 # Pok-Deng-Game
 Skooldio Homework / Submitted on 6 April 2022 at 10.54 a.m.
 
+# To verify the code at submittrd time
+    git checkout b7ee82f4677dd9fe7b1d7193bc34f72d0b59852d
+
 # Installation
     npm install
     
