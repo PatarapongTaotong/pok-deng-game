@@ -1,5 +1,5 @@
-# pok-deng-game
-Skooldio Homework
+# Pok-Deng-Game
+Skooldio Homework / Submitted at 10.54 a.m.
 
 # Installation
     npm install
