@@ -1,5 +1,5 @@
 # Pok-Deng-Game
-Skooldio Homework / Submitted at 10.54 a.m.
+Skooldio Homework / Submitted on 6 April 2022 at 10.54 a.m.
 
 # Installation
     npm install
