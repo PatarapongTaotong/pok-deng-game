@@ -1,0 +1,23 @@
+{
+  "name": "pok-deng-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatarapongTaotong/pok-deng-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatarapongTaotong/pok-deng-game/issues"
+  },
+  "homepage": "https://github.com/PatarapongTaotong/pok-deng-game#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
